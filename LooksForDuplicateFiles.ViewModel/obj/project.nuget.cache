@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ab64sh/OVutZh8YAn8eB525qw6IIyFbCsFpXEBwn3YNLkOKoViAC7PC25BAAOGnGRAfuLDErUOAlVE7pM1NacQ==",
+  "dgSpecHash": "XU4RbJ4o5i4ByxerJcqNAZ50+dv5Il48yWADoWDRFL/mtXLrZS5R+5m4f3kvLte9smihumVr/MWwH13cT2JfGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
+  "projectFilePath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\home\\.nuget\\packages\\commonservicelocator\\2.0.2\\commonservicelocator.2.0.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.9-rel-29512-01\\microsoft.net.native.compiler.2.2.9-rel-29512-01.nupkg.sha512",

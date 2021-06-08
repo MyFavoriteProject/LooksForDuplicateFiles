@@ -1,0 +1,3 @@
+C:\Users\home\source\repos\FoundDuplicate\FoundDuplicate\LooksForDuplicateFiles.Model\LooksForDuplicateFiles.Model.csproj;x64
+C:\Users\home\source\repos\FoundDuplicate\FoundDuplicate\LooksForDuplicateFiles.ViewModel\LooksForDuplicateFiles.ViewModel.csproj;x64
+C:\Users\home\source\repos\FoundDuplicate\FoundDuplicate\LooksForDuplicateFiles\LooksForDuplicateFiles.csproj;x64

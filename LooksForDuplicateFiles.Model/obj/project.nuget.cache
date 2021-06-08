@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YUP9HQJQH4wPZPVo/20e/7axJfq+YlzhTKPnzX57LAcuio049vlTwd0Jgu1TucyrlHkhxrj7qOAQy7bKqlTx6Q==",
+  "dgSpecHash": "v1w/GpPxasn39lbun0F5bzP3rCk+yT6cddiPg7PK3CP/sxopD/bcoWaHsF/GMGNSAR2rWjCJYcoBDXipJcPhJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
+  "projectFilePath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.9-rel-29512-01\\microsoft.net.native.compiler.2.2.9-rel-29512-01.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.11\\microsoft.net.uwpcoreruntimesdk.2.2.11.nupkg.sha512",

@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles\\LooksForDuplicateFiles.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
+        "projectName": "LooksForDuplicateFiles.Model",
+        "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
+        "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.11, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
+        "projectName": "LooksForDuplicateFiles.ViewModel",
+        "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {
+                "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.11, )"
+            },
+            "Microsoft.Toolkit.Uwp": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles\\LooksForDuplicateFiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles\\LooksForDuplicateFiles.csproj",
+        "projectName": "LooksForDuplicateFiles",
+        "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles\\LooksForDuplicateFiles.csproj",
+        "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.11, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {}
+    "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {
+    "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
+        "projectUniqueName": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
         "projectName": "LooksForDuplicateFiles.Model",
-        "projectPath": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
+        "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\obj\\",
+        "outputPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

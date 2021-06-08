@@ -9056,11 +9056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
+      "projectUniqueName": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
       "projectName": "LooksForDuplicateFiles.ViewModel",
-      "projectPath": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
+      "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\LooksForDuplicateFiles.ViewModel.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.ViewModel\\obj\\",
+      "outputPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9084,8 +9084,8 @@
       "frameworks": {
         "uap10.0.17763": {
           "projectReferences": {
-            "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {
-              "projectPath": "C:\\Users\\home\\source\\repos\\LooksForDuplicateFiles\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj"
+            "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj": {
+              "projectPath": "C:\\Users\\home\\source\\repos\\FoundDuplicate\\FoundDuplicate\\LooksForDuplicateFiles.Model\\LooksForDuplicateFiles.Model.csproj"
             }
           }
         }
